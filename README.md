@@ -1,8 +1,8 @@
-# Hi 👋 I'm Rohit Khilani
+# 👋 Hi, I'm Rohit Khilani
 
-## Incoming MSc Artificial Intelligence Student @ RMIT University (2026)
+🎓 MSc Artificial Intelligence Student @ RMIT University (Australia)
 
-I'm passionate about building intelligent systems using Machine Learning, Deep Learning and Computer Vision.
+💻 AI | Machine Learning | Computer Vision | Python Developer
 
 ### 🚀 Areas of Interest
 - Machine Learning
@@ -12,22 +12,21 @@ I'm passionate about building intelligent systems using Machine Learning, Deep L
 - Generative AI
 - MLOps
 
-### 💻 Tech Stack
-- Python
-- TensorFlow
-- PyTorch
-- OpenCV
-- Scikit-learn
-- NumPy
-- Pandas
-- SQL
-- Git
+## 🛠 Tech Stack
 
-### 📌 Current Goals
-- Build 20+ AI/ML Projects
-- Secure an AI/ML Internship in Melbourne
-- Contribute to Open Source
-- Learn Large Language Models (LLMs)
+Languages:
+Python • SQL • C++
+Libraries:
+NumPy • Pandas • OpenCV • Scikit-learn • TensorFlow
+Tools:
+Git • GitHub • VS Code • Jupyter Notebook
+
+🎯 Current Goals
+
+✔ Build high-quality AI portfolio projects
+✔ Land an AI/ML internship in Melbourne
+✔ Master Deep Learning & LLMs
+✔ Contribute to Open Source
 
 ### 📂 Featured Projects
 - Computer Vision Research Project
@@ -36,5 +35,14 @@ I'm passionate about building intelligent systems using Machine Learning, Deep L
 - Image Processing Techniques
 - Smart Bin
 
-### 📫 Connect with me
-- LinkedIn: www.linkedin.com/in/rohit-khilani-2244772b6
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitkhilani-blip&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkhilani-blip&layout=compact&theme=tokyonight)
+
+## 🤝 Let's Connect
+
+LinkedIn:
+https://www.linkedin.com/in/rohit-khilani-2244772b6/
+Email:
+your-rohitkhilani@gmail.com
