@@ -35,11 +35,6 @@ Git • GitHub • VS Code • Jupyter Notebook
 - Image Processing Techniques
 - Smart Bin
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=rohitkhilani-blip&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitkhilani-blip&show_icons=true&theme=tokyonight&cache_seconds=1800)
 ## 🤝 Let's Connect
 
 LinkedIn:
